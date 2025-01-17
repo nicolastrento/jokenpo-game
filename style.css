@@ -93,9 +93,16 @@ body {
   }
 }
 
-p {
+.result {
   font-weight: bold;
   margin: 10px 0px 10px;
   color: aliceblue;
   font-size: 22px;
+}
+
+.machine-result {
+  font-weight: bold;
+  font-size: 22px;
+  color: rgb(133, 217, 238);
+  margin-top: 25px;
 }
