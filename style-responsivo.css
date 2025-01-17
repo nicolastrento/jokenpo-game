@@ -1,0 +1,25 @@
+
+@media screen and (max-width: 800px) {
+  .background-jokenpo {
+    width: 100%;
+    height: 100%;
+  }
+
+  .container {
+    width: 350px;
+  }
+
+  .button {
+    gap: 10px;
+    margin-top: 50px;
+  }
+
+  .button button {
+    width: 90px;
+    height: 90px;  
+    
+    & img {
+      width: 70px;
+    }
+  }
+}
