@@ -7,7 +7,7 @@ Este projeto foi um desafio do curso DevClub - FullStack
 
 Este foi o resultado:
 
-<img width="100%" src="assets/img-projeto">
+<img width="100%" src="assets/img-projeto.png">
 
 <br/>
 
